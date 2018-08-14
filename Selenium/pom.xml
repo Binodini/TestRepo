@@ -98,7 +98,7 @@
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
-			<!--  <plugin>
+			 <plugin>
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.3</version>
             <configuration>
@@ -106,7 +106,7 @@
                     <include>src</include>
                 </includes>
             </configuration>
-        </plugin> -->
+        </plugin>
 
 		</plugins>
 
